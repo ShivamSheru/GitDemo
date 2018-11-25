@@ -55,6 +55,8 @@ describe('Dropdown',
 			item.element(by.css("td:nth-child(3)")).getText().then(function(sum)
 					{
 						console.log(sum);
+						console.log(sum);
+						console.log(sum);
 					})
 				})
 	
